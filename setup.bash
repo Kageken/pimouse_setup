@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by K. Kageyama
 
 exec 2> /tmp/setup.log
 
